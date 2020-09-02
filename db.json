@@ -1,0 +1,25 @@
+{
+  "ticket": [
+    {
+      "Perimetre": "in",
+      "Severite": "normale",
+      "Statut": "cree",
+      "Type": "assistance",
+      "FamillesDeProduits": "helpDesk",
+      "ProduitsSoucisDemandes": "psd",
+      "Voie": "email",
+      "Source": "accesADistance",
+      "DepartementConcerne": "technique",
+      "ServiceConcerne": "",
+      "GroupeConcerne": "",
+      "id": 1
+    }
+  ],
+  "test": [
+    {
+      "Holder2": "t2",
+      "id": 1,
+      "Holder1": "t1"
+    }
+  ]
+}
